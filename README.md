@@ -1,4 +1,4 @@
-# lab03-kafka-spring
+# lab03Part1-kafka-spring
 
 In this lab, you will see how to use the Spring Boot-Kafka integration to send and consume message from a Spring Boot application via Kafka.
 
